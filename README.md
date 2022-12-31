@@ -1,7 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="100"/>
-</div>
-
+### Hi There !
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/bogdan-dragan-023ba525a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,7 +12,7 @@ In the past I been used to code in  C / C++.
 at AWS also. 
 
 In the meantime if you are intrested in my protofolio, please feel free to have a look at my repositories.
-
-
-
 -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="100"/>
+</div>
