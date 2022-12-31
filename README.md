@@ -1,8 +1,8 @@
-### Hi There !
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://www.linkedin.com/in/bogdan-dragan-023ba525a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+### Hi There !
 </div>
 <!--
  Now is the time for me to move on with a career change and go back to my old passion, software coding. 
